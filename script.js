@@ -20,7 +20,7 @@ function main() {
   scene.add(light);
 
   const gltfLoader = new THREE.GLTFLoader();
-  gltfLoader.load('https://cdn.glitch.global/bc9e29ba-1909-42ee-b83b-b1246375e094/almagua.glb', (gltf) => {
+  gltfLoader.load('https://cdn.glitch.global/c536c49d-7661-4fd9-81b8-918d12539028/almagua.glb', (gltf) => {
     const root = gltf.scene;
     scene.add(root);
 
