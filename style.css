@@ -412,7 +412,7 @@ body.anti-aug .aug-exe:after {
 .instagram {
   width: 200px; /* Ajusta el ancho del botón según tus necesidades */
   height: 50px; /* Ajusta la altura del botón según tus necesidades */
-  background-color: blue;
+  background-color: #339AF0;
   color: #FFF;
   border: none;
   border-radius: 5px;
@@ -426,7 +426,7 @@ body.anti-aug .aug-exe:after {
 }
 
 .instagram:hover {
-  background-color: #339AF0;
+  background-color: #FFD700;
 }
 
 .display {
