@@ -396,15 +396,6 @@ body.anti-aug .aug-exe:after {
 
 
 
-
-
-
-
-
-
-
-
-
 .link {
   text-decoration: none;
 }
@@ -421,8 +412,8 @@ body.anti-aug .aug-exe:after {
 }
 
 .instagram {
-  width: 120px;
-  height: 28px;
+  width: 200px; /* Aumenta el ancho del botón */
+  height: 50px; /* Aumenta la altura del botón */
   background-color: blue;
   color: #FFF;
   border: none;
@@ -430,6 +421,7 @@ body.anti-aug .aug-exe:after {
   margin: 0 auto;
   display: block;
   bottom: 0;
+  font-size: 20px; /* Aumenta el tamaño de la fuente del texto del botón */
 }
 
 .instagram:hover {
@@ -454,6 +446,7 @@ body.anti-aug .aug-exe:after {
 .text-container {
   padding: 2px 0px 0px 20px;
 }
+
 
 
 
