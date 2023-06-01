@@ -441,11 +441,11 @@ body.anti-aug .aug-exe:after {
 }
 
 .text {
-  font-size: 100%; /* Establece el tamaño de fuente en un porcentaje para que sea proporcional al tamaño del botón */
+  font-size: 50px; /* Establece el tamaño de fuente en un porcentaje para que sea proporcional al tamaño del botón */
 }
 
 .text-container {
-  padding: 2px 0px 0px 20px;
+  padding: 2px 0px 0px 10px;
 }
 
 
