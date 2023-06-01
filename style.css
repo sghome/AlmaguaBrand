@@ -417,9 +417,12 @@ body.anti-aug .aug-exe:after {
   border: none;
   border-radius: 5px;
   margin: 0 auto;
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   bottom: 0;
   font-size: 20px; /* Ajusta el tamaño de la fuente del texto según tus necesidades */
+  text-decoration: none; /* Quita el subrayado del enlace */
 }
 
 .instagram:hover {
@@ -444,6 +447,7 @@ body.anti-aug .aug-exe:after {
 .text-container {
   padding: 2px 0px 0px 20px;
 }
+
 
 
 
