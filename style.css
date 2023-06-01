@@ -405,15 +405,9 @@ body.anti-aug .aug-exe:after {
 
 
 
-
 .link {
   text-decoration: none;
 }
-
-
-
-
-
 
 .bg-controls-container2 {
   pointer-events: all;
@@ -426,28 +420,25 @@ body.anti-aug .aug-exe:after {
   transform: rotateY(5deg);
 }
 
-
 .instagram {
   width: 120px;
   height: 28px;
-  border: 1px solid blue;
-  color: blue;
+  background-color: blue;
+  color: #FFF;
+  border: none;
   border-radius: 5px;
-  margin: 0 auto; /* Agrega esta propiedad para centrar horizontalmente */
-  display: block; /* Agrega esta propiedad para convertirlo en un elemento de bloque */
-  bottom: 0; /* Agrega esta propiedad para colocarlo en la parte inferior */
+  margin: 0 auto;
+  display: block;
+  bottom: 0;
 }
 
 .instagram:hover {
-  background-color: blue;
-  color: #FFF;
+  background-color: #339AF0;
 }
 
 .display {
   padding: 2px 10px 2px 15px;
 }
-
-
 
 .container {
   width: 100%;
@@ -455,9 +446,6 @@ body.anti-aug .aug-exe:after {
   float: left;
   padding-top: 1px;
 }
-
-
-
 
 .text {
   font-size: 18px;
