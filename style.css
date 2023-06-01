@@ -394,8 +394,6 @@ body.anti-aug .aug-exe:after {
 }
 
 
-
-
 .link {
   text-decoration: none;
 }
@@ -412,8 +410,8 @@ body.anti-aug .aug-exe:after {
 }
 
 .instagram {
-  width: 200px; /* Aumenta el ancho del botón */
-  height: 50px; /* Aumenta la altura del botón */
+  width: 200px; /* Ajusta el ancho del botón según tus necesidades */
+  height: 50px; /* Ajusta la altura del botón según tus necesidades */
   background-color: blue;
   color: #FFF;
   border: none;
@@ -421,7 +419,7 @@ body.anti-aug .aug-exe:after {
   margin: 0 auto;
   display: block;
   bottom: 0;
-  font-size: 20px; /* Aumenta el tamaño de la fuente del texto del botón */
+  font-size: 20px; /* Ajusta el tamaño de la fuente del texto según tus necesidades */
 }
 
 .instagram:hover {
@@ -440,12 +438,13 @@ body.anti-aug .aug-exe:after {
 }
 
 .text {
-  font-size: 18px;
+  font-size: 100%; /* Establece el tamaño de fuente en un porcentaje para que sea proporcional al tamaño del botón */
 }
 
 .text-container {
   padding: 2px 0px 0px 20px;
 }
+
 
 
 
