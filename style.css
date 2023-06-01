@@ -235,11 +235,12 @@ body.anti-aug .aug-exe:after {
   pointer-events: all;
   position: absolute;
   bottom: 2.813rem;
-  left: 1.563rem;
+  left: calc(50% - 9.375rem);
   height: 3.125rem;
   width: 18.75rem;
   transform-origin: 0 50%;
   transform: rotateY(5deg);
+ 
 }
 
 .bg-controls {
@@ -412,6 +413,9 @@ body.anti-aug .aug-exe:after {
   transform-origin: 0 50%;
   transform: rotateY(5deg);
 }
+
+
+
 
 .instagram {
   width: 200px; /* Ajusta el ancho del botón según tus necesidades */
