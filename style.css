@@ -290,7 +290,9 @@ body.anti-aug .aug-exe:after {
 }
 
 #bgFPS {
-  background: var(--gold);
+  background: url("https://cdn.glitch.me/c536c49d-7661-4fd9-81b8-918d12539028/almagua.svg") no-repeat center;
+  background-size: contain;
+  background-position: center;
   color: #ffffff;
   text-shadow: 0rem 0rem 2rem rgba(0, 0, 0, 0.8);
   height: 3.75rem;
@@ -306,9 +308,11 @@ body.anti-aug .aug-exe:after {
   text-align: center;
   padding-top: 0.625rem;
 }
+
 .awful-fps-hault #bgFPS {
   background: linear-gradient(to right, #ff000033, #ff000033), var(--gold);
 }
+
 
 .fps-label {
   background: #000000;
