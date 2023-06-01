@@ -418,10 +418,11 @@ body.anti-aug .aug-exe:after {
   border-radius: 5px;
   margin: 0 auto;
   display: flex;
+  text-align: center;
   justify-content: center;
   align-items: center;
   bottom: 0;
-  font-size: 20px; /* Ajusta el tamaño de la fuente del texto según tus necesidades */
+  font-size: 150px; /* Ajusta el tamaño de la fuente del texto según tus necesidades */
   text-decoration: none; /* Quita el subrayado del enlace */
 }
 
